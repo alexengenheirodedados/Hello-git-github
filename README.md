@@ -3,6 +3,6 @@
 # H1
 
 **Sample text**
-_Sample text2_
+__Sample text2__
 ## H2
 ### H3
